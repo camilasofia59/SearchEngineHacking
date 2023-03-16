@@ -13,11 +13,12 @@ In this lab, I learned how search engines work and generally how we can abuse th
 
 <p align="center">
 First Search: 244,000,00 results <br/>
-- <img width="1271" alt="Screenshot 2023-03-15 at 9 47 42 PM" src="https://user-images.githubusercontent.com/127968338/225488745-4671cba3-d6e4-4eb6-b09e-eabb853a3d8a.png">
+-
 <br />
 <br />
 Second search: 105 results <br/>
--<img width="1271" alt="Screenshot 2023-03-15 at 9 49 27 PM" src="https://user-images.githubusercontent.com/127968338/225488998-57fa79c0-f5f2-4938-a705-e00c2adfe846.png">
+- <<img width="1271" alt="Screenshot 2023-03-15 at 9 44 13 PM" src="https://user-images.githubusercontent.com/127968338/225489566-b27676dc-7737-4f1c-b978-dd53bd4fad7b.png">
+
 <br />
 <br />
 Enter the number of passes: <br/>
