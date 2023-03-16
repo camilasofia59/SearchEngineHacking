@@ -5,9 +5,9 @@ In this lab, I learned how search engines work and generally how we can abuse th
 <br />
 
 
-<h2>Operating System Used</h2>
+<h2>Search Engine</h2>
 
-- <b>Kali Linux</b> 
+- <b>Google</b> 
 
 <h2>Program walk-through:</h2>
 
