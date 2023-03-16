@@ -14,7 +14,12 @@ In this lab, I learned how search engines work and generally how we can abuse th
 <p align="center">
 First Search: 4,610,00 results <br/>
 <img width="1271" alt="Screenshot 2023-03-15 at 9 56 03 PM" src="https://user-images.githubusercontent.com/127968338/225489798-0a9937f6-c5f8-42a4-96e9-e6963fa1c6a2.png">
-
+<br />
+<br />
+Second search: More precise results (8 results)  <br/>
+<img width="1271" alt="Screenshot 2023-03-15 at 9 44 13 PM" src="https://user-images.githubusercontent.com/127968338/225489566-b27676dc-7737-4f1c-b978-dd53bd4fad7b.png">
+Third Search: The "@" we have added in the search bar indicated we are looking for emails results <br/>
+<img width="1271" alt="Screenshot 2023-03-15 at 9 56 03 PM" src="https://user-images.githubusercontent.com/127968338/225489798-0a9937f6-c5f8-42a4-96e9-e6963fa1c6a2.png">
 <br />
 <br />
 Second search: 8 results <br/>
