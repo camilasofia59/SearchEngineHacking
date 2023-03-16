@@ -1,7 +1,5 @@
 <h1>Search Engine Hacking</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this lab, I learned how search engines work and generally how we can abuse this index scraped content to enumerate and filter for higher-quality results.
 <br />
@@ -14,8 +12,8 @@ In this lab, I learned how search engines work and generally how we can abuse th
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First Search: <br/>
+-<img width="351" alt="Screenshot 2023-03-15 at 9 37 26 PM" src="https://user-images.githubusercontent.com/127968338/225487343-11a57f97-6e62-4c12-b62b-a678bf75d58e.png">
 <br />
 <br />
 Select the disk:  <br/>
