@@ -23,7 +23,7 @@ Third Search: The "@" we have added in the search bar indicated we are looking f
 <br />
 <br />
 We have found an email meeting our requirements <br/>
-<img width="1271" alt="Screenshot 2023-03-15 at 9 44 13 PM" src="https://user-images.githubusercontent.com/127968338/225489566-b27676dc-7737-4f1c-b978-dd53bd4fad7b.png">
+<img width="1271" alt="Screenshot 2023-03-15 at 10 08 33 PM" src="https://user-images.githubusercontent.com/127968338/225491870-be85d952-5c8e-4fed-992f-bca6741337c1.png">
 
 <br />
 <br />
