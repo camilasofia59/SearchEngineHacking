@@ -24,28 +24,14 @@ Third Search: The "@" we have added in the search bar indicated we are looking f
 <br />
 As we now see, there is a user called Dr Ktobin that has their email publicly exposed. Let's see if this user is on any other webpage. <br/>
 <img width="1271" alt="Screenshot 2023-03-15 at 10 08 33 PM" src="https://user-images.githubusercontent.com/127968338/225491870-be85d952-5c8e-4fed-992f-bca6741337c1.png">
+We have narrowed down our result to 1.
+ <br/> <img width="1271" alt="Screenshot 2023-03-15 at 10 21 17 PM" src="https://user-images.githubusercontent.com/127968338/225493140-7bf13fd1-f03f-4eab-bc25-f3f17ad2bfeb.png">
 
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h2>Conclusion</h2>
+
+- We have narrowed done and learned a new way to make search results more precise. However, it is important to know that many of the information that doesn't make it into search engines is the result of "security through obscurity". Information is hidden in an attemp to decieve or slow down an adversary. We will see more about this in upcoming projects.
+
+
 
 <!--
  ```diff
