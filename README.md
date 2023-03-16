@@ -12,11 +12,11 @@ In this lab, I learned how search engines work and generally how we can abuse th
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First Search: <br/>
--<img width="351" alt="Screenshot 2023-03-15 at 9 37 26 PM" src="https://user-images.githubusercontent.com/127968338/225487343-11a57f97-6e62-4c12-b62b-a678bf75d58e.png">
+First Search: 244,000,00 results <br/>
+- <img width="1271" alt="Screenshot 2023-03-15 at 9 47 42 PM" src="https://user-images.githubusercontent.com/127968338/225488745-4671cba3-d6e4-4eb6-b09e-eabb853a3d8a.png">
 <br />
 <br />
-Select the disk:  <br/>
+Second search:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
