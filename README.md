@@ -12,12 +12,13 @@ In this lab, I learned how search engines work and generally how we can abuse th
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First Search: 244,000,00 results <br/>
--
+First Search: 4,610,00 results <br/>
+<img width="1271" alt="Screenshot 2023-03-15 at 9 56 03 PM" src="https://user-images.githubusercontent.com/127968338/225489798-0a9937f6-c5f8-42a4-96e9-e6963fa1c6a2.png">
+
 <br />
 <br />
-Second search: 105 results <br/>
-- <<img width="1271" alt="Screenshot 2023-03-15 at 9 44 13 PM" src="https://user-images.githubusercontent.com/127968338/225489566-b27676dc-7737-4f1c-b978-dd53bd4fad7b.png">
+Second search: 8 results <br/>
+<img width="1271" alt="Screenshot 2023-03-15 at 9 44 13 PM" src="https://user-images.githubusercontent.com/127968338/225489566-b27676dc-7737-4f1c-b978-dd53bd4fad7b.png">
 
 <br />
 <br />
